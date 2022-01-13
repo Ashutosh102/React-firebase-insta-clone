@@ -1,3 +1,5 @@
+## Sample
+![Screenshot (740)](https://user-images.githubusercontent.com/75971776/149366094-418dcb87-56cb-4f53-b3a3-dd1217617b3a.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 An amazing mern instagram clone built using react js for frontend and firebase for backend😀😎!!.
